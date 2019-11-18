@@ -1,7 +1,7 @@
 # R USER GROUP MALMÖ~LUND (a.k.a. SkåneR)
 *This page is a work in progress*
 
-## The purpose of this page is to collect resources from previous SkåneR meet ups and to inform about upcoming activities! Get in touch: [@rskane](https://twitter.com/r_skane) or malin.fredenaxelsson@gmail.com
+## The purpose of this page is to collect resources from previous SkåneR meet ups and to inform about upcoming activities! Get in touch: [@r_skane](https://twitter.com/r_skane) or malin.fredenaxelsson@gmail.com
 
 
 ## Next meetup:
