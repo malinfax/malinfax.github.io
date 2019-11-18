@@ -1,4 +1,4 @@
-# :sparkles: R USER GROUP MALMÖ~LUND (a.k.a. SkåneR) :sparkles:
+# R USER GROUP MALMÖ~LUND (a.k.a. SkåneR) 
 *This page is a work in progress*
 
 ### The purpose of this page is to collect resources from previous SkåneR meet ups and to inform about upcoming activities! 
